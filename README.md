@@ -34,11 +34,12 @@ Git · GitHub · Postman · VS Code · Codex · PowerShell
 
 ## 🚀 Projetos em Destaque
 
-### 🤖 Bot de Automação de Pedidos
+### 🤖 [Bot de Automação de Pedidos](https://github.com/KevinLDev/automacao-pedidos-portfolio)
 
 Desenvolvimento de uma solução para automatizar operações e testes em uma plataforma de Força de Vendas, reduzindo atividades manuais e padronizando processos de execução e validação.
 
 **Principais atividades:**
+
 - Automação de navegador utilizando Python e Playwright.
 - Execução parametrizada de operações e pedidos.
 - Integração com planilhas para configuração e acompanhamento.
@@ -47,11 +48,14 @@ Desenvolvimento de uma solução para automatizar operações e testes em uma pl
 
 **Tecnologias:** Python, Playwright, Chromium, pytest, Google Sheets, Google Apps Script e gspread.
 
-### 🔗 Fábrica de Integrações entre Sistemas e ERPs
+📂 **[Ver apresentação completa do projeto](https://github.com/KevinLDev/automacao-pedidos-portfolio)**
+
+### 🔗 [Fábrica de Integrações entre Sistemas e ERPs](https://github.com/KevinLDev/integracoes-erp-portfolio)
 
 Desenvolvimento de uma arquitetura baseada em código para padronizar e acelerar a construção de integrações entre plataformas comerciais e sistemas ERP.
 
 **Principais atividades:**
+
 - Desenvolvimento com TypeScript e Node.js.
 - Estruturação de contratos, adaptadores e mapeamentos de dados.
 - Integração de sistemas por meio de APIs REST.
@@ -59,6 +63,8 @@ Desenvolvimento de uma arquitetura baseada em código para padronizar e acelerar
 - Implementação de testes automatizados e processos de validação.
 
 **Tecnologias:** TypeScript, Node.js, APIs REST, JSON, Vitest e ESLint.
+
+📂 **[Ver apresentação completa do projeto](https://github.com/KevinLDev/integracoes-erp-portfolio)**
 
 *Projetos desenvolvidos em contexto profissional. Os códigos-fonte não são disponibilizados publicamente por motivos de confidencialidade e propriedade intelectual.*
 
